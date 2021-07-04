@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sahilcodegyani
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 👀 I am a Full Stack Developer and graphic designer
 - 📫 How to reach me wwwsahilkhan861@gmail.com
 
 <!---
